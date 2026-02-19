@@ -102,17 +102,3 @@ Otra práctica fundamental es definir adecuadamente las relaciones entre entidad
 Finalmente, el modelo ER ayuda a mejorar la organización y eficiencia del sistema de información. Microsoft señala que *“el modelado de datos ayuda a garantizar la consistencia, reducir la redundancia y mejorar la calidad general de los datos”* [4]. Esto es especialmente importante en empresas de transporte como Transcapital, donde se debe mantener un control preciso sobre vehículos, conductores y contratos.
 
 En conclusión, la aplicación de buenas prácticas en el modelado ER permitió construir un modelo claro, organizado y alineado con las necesidades de la empresa Transcapital. Esto facilita el desarrollo posterior de la base de datos y asegura una gestión eficiente de la información.
-
-## 📚 Referencias
-
-[1] Oracle. Data Modeling Concepts.
-https://docs.oracle.com/en/database/
-
-[2] IBM. Introduction to Data Modeling.
-https://www.ibm.com/docs/en
-
-[3] Lucidchart. What is an Entity Relationship Diagram.
-https://www.lucidchart.com/pages/er-diagrams
-
-[4] Microsoft. Data Modeling Overview.
-https://learn.microsoft.com/en-us/power-bi/guidance/star-schema
