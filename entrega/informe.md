@@ -6,9 +6,9 @@ Taller 2 - Modelo Entidad Relación - Caso Real
 
 ## 👥 Integrantes del equipo
 
-* @Oscarvm117
-* @JAIMEPCI
-* @285JuanDM
+* Oscar David Vergara (@Oscarvm117)
+* Jaime Andrés Olarte (@JAIMEPCI)
+* Juan David Moreno (@285JuanDM)
 
 ## 🧠 Descripción general del trabajo
 
