@@ -148,13 +148,11 @@ taller-01-bpmn/
 ├── README.md
 │
 ├── clase/
-│   ├── modelo.drawio
-│   ├── modelo.png
+│   ├── modelo-final-er-clinica.png
 │   └── notas.md
 │
 ├── entrega/
-│   ├── modelo-final.drawio
-│   ├── modelo-final.png
+│   ├── modelo-final-er-transcapital.png
 │   ├── informe.md
 │   └── referencias.md
 ```
