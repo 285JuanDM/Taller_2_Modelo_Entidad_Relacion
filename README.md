@@ -41,7 +41,7 @@ El modelo entidad-relación de la clínica representa la gestión de citas médi
 erDiagram
     PACIENTE ||--o{ CITA : tiene
     MEDICO ||--o{ MEDICO_ESPECIALIDAD : posee
-    CITA |{--|| MEDICO_ESPECIALIDAD:tiene
+    CITA |{--|| MEDICO_ESPECIALIDAD:atiende
     CITA ||--|| FACTURA : origina
     ESPECIALIDAD |{--o{ MEDICO: posee
 
