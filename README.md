@@ -41,9 +41,9 @@ El modelo entidad-relación de la clínica representa la gestión de citas médi
 erDiagram
     PACIENTE ||--o{ CITA : tiene
     MEDICO ||--o{ MEDICO_ESPECIALIDAD : posee
-    ESPECIALIDAD ||--o{ MEDICO_ESPECIALIDAD : clasifica
-    MEDICO ||--o{ CITA : atiende
-    CITA ||--o| FACTURA : origina
+    CITA |{--|| MEDICO_ESPECIALIDAD:tiene
+    CITA ||--|| FACTURA : origina
+    ESPECIALIDAD |{--o{ MEDICO: posee
 
     PACIENTE {
         int id_paciente PK
@@ -94,6 +94,7 @@ erDiagram
         string estado_pago
         string aseguradora
     }
+
 ```
 
 ### Cliente Real – 🧠 Proceso Modelado
